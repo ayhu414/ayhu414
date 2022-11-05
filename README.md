@@ -1,11 +1,13 @@
-### Hey There 👋, Allen Here!
+
 <!--
 <div id="header" align="center">
   <img src="INSERT LINK TO PIXEL ART HERE" width="100"/>
 </div>
 -->
 <div id="header" align="center">
-<h3><strong>Allen Hu</strong><br />
+<h2><strong>Allen Hu</strong><br /></h2>
+<br />
+<h3>
 <em>Unlocking Value </em><br />
 <em>  through human-centric data science.<br /> </em>
 </h3>
