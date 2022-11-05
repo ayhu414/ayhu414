@@ -6,7 +6,6 @@
 -->
 <div id="header" align="center">
 <h2><strong>Allen Hu</strong><br /></h2>
-<br />
 <h3>
 <em>Unlocking Value </em><br />
 <em>  through human-centric data science.<br /> </em>
