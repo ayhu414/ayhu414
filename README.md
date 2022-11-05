@@ -1,17 +1,17 @@
+### Hey There! Allen Here 👋
+---
 
-<!--
-<div id="header" align="center">
-  <img src="INSERT LINK TO PIXEL ART HERE" width="100"/>
-</div>
--->
-<div id="header" align="center">
-<h2><strong>Allen Hu</strong><br /></h2>
-<h3>
-<em>Unlocking Value </em><br />
-<em>  through human-centric data science.<br /> </em>
-</h3>
-</div>
+I'm Allen, a behavioral economist-in-training turned data enthusiast, aspiring full-stack data scientist (wish me luck..!) and a masters student at Columbia Engineering and Business Schools 👑! 
 
+I primarily code in Python and R, and am currently learning the fundamentals of the data engineering stack such as 🎐Airflow, ❄️Snowflake, as well as getting re-acquainted with the fundamentals of machine learning👓. I would love the opportunity to share my progress and what I find useful in my learning process, so I invite everyone to come along my journey via my [personal page](https://www.google.com/search?q=404+costume+meme&rlz=1C1ONGR_enUS1019US1019&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjv6ef3lpb7AhWPhYkEHYUzCacQ_AUoAXoECAIQAw&biw=1536&bih=760&dpr=1.25#imgrc=EwMWg0cHz8-MSM) and [LinkedIn](https://www.linkedin.com/in/ayhu414/)! (and of course, I love feedback and any help along the way 🙌)
+
+Couple things I currently enjoy doing and find very rewarding:
+
+- 🎲 Applying probabilistic thinking *everywhere*...
+- 🏃 Working with behavioral data to understand human behavior
+- 🏗️ Applying what I learned in class directly to my projects
+- 📖 Learning deep learning concepts visually [with Yann LeCun's Course](https://www.youtube.com/results?search_query=yann+lecun+deep+learning+course)
+- 🎨 Making Pixel Art! (Coming Soon...)
 
 <!--
 **ayhu414/ayhu414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
