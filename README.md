@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey There 👋, Allen Here!
+
+<header id="header">
+				<div class="inner">
+					<a href="#" class="profile picture"><img src="images/avatar.jpg" alt="" /></a>
+					<h1><strong>Allen Hu</strong><br />
+						<em>Unlocking Value </em><br />
+						<em>  through human-centric data science.<br /> </em>
+					</h1>
+				</div>
+			</header>
 
 <!--
 **ayhu414/ayhu414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
